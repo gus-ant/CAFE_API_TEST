@@ -6,7 +6,7 @@ Bem-vindo à **Cafe & Wifi API**, um serviço simples para gerenciar informaçõ
 
 ---
 
-## 🌸 Visão Geral
+##  Visão Geral 👁
 Esta API permite recuperar dados de cafés cadastrados, além de adicionar, atualizar e remover informações de forma prática.
 
 ### ✨ Funcionalidades:
@@ -16,7 +16,7 @@ Esta API permite recuperar dados de cafés cadastrados, além de adicionar, atua
 - Adicionar novos cafés
 - Atualizar o preço do café
 - Remover cafés do banco de dados
-
+  
 ---
 
 ## 📌 Instalação
@@ -93,22 +93,6 @@ Atualiza o preço do café com ID especificado.
 ### 🔹 `DELETE /report-closed/<int:cafe_id>`
 Remove um café do banco de dados, se a `api_key` correta for fornecida.
 
----
-
-## 📝 Como Publicar no GitHub
-1. Crie um repositório no GitHub.
-2. No terminal, rode os seguintes comandos:
-
-```sh
-git init
-git add .
-git commit -m "Primeiro commit"
-git branch -M main
-git remote add origin https://github.com/seu-usuario/seu-repositorio.git
-git push -u origin main
-```
-
-Agora sua API estará publicada no GitHub! 🎉
 
 ---
 
