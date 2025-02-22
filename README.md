@@ -4,10 +4,11 @@
 
 Bem-vindo à **Cafe & Wifi API**, um serviço simples para gerenciar informações sobre cafés, incluindo localização, preço do café, disponibilidade de Wi-Fi, tomadas e outras características.
 
+![Demonstração](DAY_66_API_REST/coffee_api.PNG)
 ---
 
 ##  Visão Geral 👁
-Esta API permite recuperar dados de cafés cadastrados, além de adicionar, atualizar e remover informações de forma prática.
+Esta API foi feita com fins estudantis sobre o Framework Flask e permite recuperar dados de cafés cadastrados, além de adicionar, atualizar e remover informações de forma prática.
 
 ### ✨ Funcionalidades:
 - Buscar todos os cafés cadastrados
